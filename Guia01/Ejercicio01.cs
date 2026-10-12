@@ -2,8 +2,6 @@
 
 // Hacer un programa que permita sumar entre dos números:
 
-// Primer cambio realizado
-
 namespace Guia01;
 
     class Program
